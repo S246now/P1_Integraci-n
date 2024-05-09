@@ -1,0 +1,6 @@
+IdTransaccion,Fecha,IdCategoria,IdProducto,Producto,Cantidad,PrecioUnitario,TotalVenta
+1,2024-05-08,101,001,Calular,5,10,50
+2,2024-05-08,102,002,Laptop,3,15,45
+3,2024-05-08,101,003,Tarjeta,2,20,40
+4,2024-05-08,103,004,Mouse,1,25,25
+5,2024-05-08,101,005,Teclado,4,8,32

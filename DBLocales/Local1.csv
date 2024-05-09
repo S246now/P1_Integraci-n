@@ -1,0 +1,6 @@
+IdTransaccion,Fecha,IdCategoria,IdProducto,Producto,Cantidad,PrecioUnitario,TotalVenta
+1,2024-05-08,101,001,Papel,5,10,50
+2,2024-05-08,102,002,Lapiz,3,15,45
+3,2024-05-08,101,003,Marcadores,2,20,40
+4,2024-05-08,103,004,Pincel,1,25,25
+5,2024-05-08,101,005,Acuarelas,4,8,32
